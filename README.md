@@ -1,6 +1,11 @@
 # weightrec
 
 ## Build Setup
+```bash
+npm install -g yarn
+npm install -g nuxt-ts
+npm install -g node-ts
+```
 
 ```bash
 # install dependencies
